@@ -1,0 +1,17 @@
+.daftar-kartu {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+}
+
+@media (max-width: 800px) {
+  .daftar-kartu {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 540px) {
+  .daftar-kartu {
+    grid-template-columns: 1fr;
+  }
+}

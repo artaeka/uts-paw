@@ -1,0 +1,27 @@
+#form-tambah {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  max-width: 480px;
+}
+
+.baris-form {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.baris-form input,
+.baris-form select {
+  padding: 0.5rem;
+  border: 1px solid var(--pink-tua);
+  border-radius: 6px;
+  background: #ffffff;
+  font: inherit;
+}
+
+.baris-form input:focus,
+.baris-form select:focus {
+  outline: 3px solid var(--pink);
+  border-color: var(--pink-tua);
+}

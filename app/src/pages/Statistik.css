@@ -1,0 +1,21 @@
+#tabel-statistik {
+  width: 100%;
+  max-width: 480px;
+  border-collapse: collapse;
+  background: #ffffff;
+}
+
+#tabel-statistik th,
+#tabel-statistik td {
+  padding: 0.5rem 0.75rem;
+  border: 1px solid var(--pink-tua);
+  text-align: left;
+}
+
+#tabel-statistik thead th {
+  background: var(--pink);
+}
+
+#tabel-statistik tbody tr:hover {
+  background: var(--pink-muda);
+}
