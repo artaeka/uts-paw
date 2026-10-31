@@ -1,0 +1,11 @@
+.indikator {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  color: #57606a;
+  font-size: 0.9rem;
+}
+
+.indikator progress {
+  accent-color: var(--pink-tua);
+}

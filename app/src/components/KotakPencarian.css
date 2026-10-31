@@ -1,0 +1,21 @@
+.kotak-pencarian {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  margin-bottom: 1rem;
+}
+
+#cari {
+  width: 100%;
+  max-width: 420px;
+  padding: 0.5rem;
+  border: 1px solid var(--pink-tua);
+  border-radius: 6px;
+  background: #ffffff;
+  font: inherit;
+}
+
+#cari:focus {
+  outline: 3px solid var(--pink);
+  border-color: var(--pink-tua);
+}
