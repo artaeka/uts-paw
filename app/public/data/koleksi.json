@@ -1,10 +1,92 @@
 [
   {
     "id": "1",
-    "judul": "Contoh item pertama",
-    "kategori": "Contoh",
-    "fieldTema1": "ganti sesuai field tema",
-    "fieldTema2": 0,
-    "fieldTema3": "ganti sesuai field tema"
+    "judul": "WebGIS Rute Bus AKDP Tulungagung",
+    "kategori": "Web",
+    "teknologi": "PostGIS, FastAPI, Express.js, React, Leaflet",
+    "tahun": 2026,
+    "tautan": "https://github.com/artaeka/Tubes_SIG"
+  },
+
+  {
+    "id": "2",
+    "judul": "Sistem Manajemen Aset IT",
+    "kategori": "Web",
+    "teknologi": "Laravel, MySQL",
+    "tahun": 2026,
+    "tautan" : "https://github.com/artaeka/asset-management"
+  },
+
+  {
+    "id": "3",
+    "judul": "Prototipe Aplikasi Belajar Gamifikasi",
+    "kategori": "Desain",
+    "teknologi": "Figma",
+    "tahun": 2026,
+    "tautan": "https://www.figma.com/design/IoposZFRCB94L5ovkbNjMU/desain-interaksi?node-id=1669-162202&t=1fucSAzUkhTvYKb8-1"
+  },
+
+  {
+    "id": "4",
+    "judul": "Mockup Screen SIM-NeuroHatta",
+    "kategori": "Desain",
+    "teknologi": "Figma",
+    "tahun": 2025,
+    "tautan": "https://www.figma.com/design/n9e5BIylg3HNyMgeIT0wSI/mockup-screen?node-id=0-1&t=3twZNDCrhk4qOWPW-1"
+  },
+
+  {
+    "id": "5",
+    "judul": "SISIPIN DISHUB Arsip Internal",
+    "kategori": "Web",
+    "teknologi": "Web, Basis Data",
+    "tahun": 2026,
+    "tautan": "https://github.com/artaeka/Project-SISIPIN-DISHUB"
+  },
+
+  {
+    "id": "6",
+    "judul": "New Feed Simulator",
+    "kategori": "Aplikasi",
+    "teknologi": "Kotlin",
+    "tahun": 2026,
+    "tautan": "https://github.com/artaeka/NewFeedSimulator"
+  },
+
+  {
+    "id": "7",
+    "judul": "MobileApp-Aplikasi Sederhana",
+    "kategori": "Aplikasi",
+    "teknologi": "Kotlin",
+    "tahun": 2026,
+    "tautan": "https://github.com/artaeka/MyProfileApp"
+  },
+
+  {
+    "id": "8",
+    "judul": "Penghitung BMI",
+    "kategori": "Data",
+    "teknologi": "Python",
+    "tahun": 2026,
+    "tautan": "https://github.com/artaeka/pemrograman_web_itera_123140209"
+  },
+
+  {
+    "id": "9",
+    "judul": "Katalog Kontak Sederhana",
+    "kategori": "Data",
+    "teknologi": "Python",
+    "tahun": 2026,
+    "tautan": "https://github.com/artaeka/pemrograman_web_itera_123140209"
+  },
+
+  {
+    "id": "10",
+    "judul": "Generator Password Acak",
+    "kategori": "Data",
+    "teknologi": "Python",
+    "tahun": 2026,
+    "tautan": "https://github.com/artaeka/pemrograman_web_itera_123140209"
   }
 ]
+
