@@ -9,8 +9,8 @@ export default function Beranda() {
 
   return (
     <section>
-      <h1>Portofolio Proyek {mahasiswa.nama}</h1>
-      <p>Kumpulan proyek web, aplikasi, data, dan desain yang pernah saya kerjakan.</p>
+      <h1>Daftar Tugas</h1>
+      <p>Tema: Portofolio Proyek</p>
 
       {loading && <p>Memuat ringkasan...</p>}
       {error && <p>Ringkasan belum tersedia.</p>}

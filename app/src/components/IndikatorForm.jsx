@@ -1,5 +1,3 @@
-import './IndikatorForm.css'
-
 export default function IndikatorForm({ terisi, total }) {
   return (
     <div className="indikator" role="status">

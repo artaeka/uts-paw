@@ -1,13 +1,6 @@
 .ringkasan {
   display: flex;
-  gap: 1rem;
+  gap: 1.5rem;
   padding: 0;
   list-style: none;
-}
-
-.ringkasan li {
-  padding: 0.75rem 1.25rem;
-  background: var(--pink-muda);
-  border: 1px solid var(--pink);
-  border-radius: 8px;
 }

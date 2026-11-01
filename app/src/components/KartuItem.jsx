@@ -1,5 +1,4 @@
 import { Link } from 'react-router-dom'
-import './KartuItem.css'
 
 export default function KartuItem({ item }) {
   const { id, judul, kategori, tahun } = item

@@ -1,5 +1,3 @@
-import './KotakPencarian.css'
-
 export default function KotakPencarian({ nilai, onUbah }) {
   return (
     <div className="kotak-pencarian">

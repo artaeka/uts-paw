@@ -11,17 +11,7 @@
   gap: 0.25rem;
 }
 
-.baris-form input,
-.baris-form select {
-  padding: 0.5rem;
-  border: 1px solid var(--pink-tua);
-  border-radius: 6px;
-  background: #ffffff;
-  font: inherit;
-}
-
 .baris-form input:focus,
 .baris-form select:focus {
-  outline: 3px solid var(--pink);
-  border-color: var(--pink-tua);
+  outline-offset: 2px;
 }

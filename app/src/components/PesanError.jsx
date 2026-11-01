@@ -1,5 +1,3 @@
-import './PesanError.css'
-
 export default function PesanError({ pesan }) {
   if (!pesan) return null
   return (

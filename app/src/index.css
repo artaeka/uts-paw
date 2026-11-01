@@ -2,16 +2,11 @@
   font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
   line-height: 1.5;
   color: #1f2328;
-  background: #ffffff;
-  --pink: #ffced8;
-  --pink-tua: #f4a6b8;
-  --pink-muda: #fff0f3;
-  --warna-bahaya: #b42318;
+  background: #f6f7f9;
 }
 
 body {
   margin: 0;
-  background: #ffffff;
 }
 
 main {
@@ -20,51 +15,10 @@ main {
   padding: 2rem 1rem;
 }
 
-/* Gaya yang dipakai banyak halaman */
-.tombol {
-  display: inline-block;
-  padding: 0.5rem 1rem;
-  border: 1px solid var(--pink-tua);
-  border-radius: 6px;
-  background: var(--pink);
-  color: #1f2328;
-  font: inherit;
-  text-decoration: none;
-  cursor: pointer;
-}
-
-.tombol:hover {
-  background: var(--pink-tua);
-}
-
-.tombol:focus-visible {
-  outline: 3px solid var(--pink-tua);
-  outline-offset: 2px;
-}
-
-.bahaya {
-  border-color: var(--warna-bahaya);
-  background: var(--warna-bahaya);
-  color: #ffffff;
-}
-
-.bahaya:hover {
-  background: #8f1c12;
-}
-
 .aksi {
   display: flex;
   gap: 0.75rem;
   margin-top: 1.5rem;
-}
-
-.lencana {
-  display: inline-block;
-  padding: 0.1rem 0.6rem;
-  border-radius: 999px;
-  background: var(--pink);
-  color: #1f2328;
-  font-size: 0.85rem;
 }
 
 .rincian {

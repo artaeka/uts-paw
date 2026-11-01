@@ -1,5 +1,4 @@
 .pesan-error {
   margin: 0;
-  color: var(--warna-bahaya);
-  font-size: 0.9rem;
+  color: #b42318;
 }
